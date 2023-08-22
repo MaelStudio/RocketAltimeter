@@ -10,6 +10,7 @@ Learn more about this project in my YouTube video by clicking [here]().
 - OLED display
 - Servo motor
 - Push button
+- Power switch
 - 5V boost converter
 - 3.7V Li-ion battery
 
