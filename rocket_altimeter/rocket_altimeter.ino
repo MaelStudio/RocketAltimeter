@@ -174,11 +174,6 @@ void waitForButton(bool trigger) {
   }
 }
 
-float roundFloat(float number, int decimalPlaces) {
-  float factor = pow(10, decimalPlaces);
-  return round(number * factor) / factor;
-}
-
 void displayDebug() {
   float altitude = bmp.readAltitude(seaPressure);
   float temperature = bmp.readTemperature();
