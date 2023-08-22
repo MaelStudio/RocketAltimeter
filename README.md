@@ -8,4 +8,4 @@ Learn more about this project in my YouTube video by clicking [here](https://you
 ![Rocket](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/rocket.png)
 ![Rocket taking off](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/launch.png)
 ![Front and back of the electronics bay](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/electronics.png)
-![Electrical wiring](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/wiring.png)
+![Electrical wiring](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/wiring.jpg)
