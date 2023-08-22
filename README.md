@@ -1,4 +1,4 @@
-# Rocket Altimeter
+# Rocket Altimeter and Automatic Parachute Deployment System
 Arduino-based water rocket altimeter and automatic parachute deploy system.
 It detects launches and apogee fully automatically using only the BMP280 barometer, then displays flight altitude on an OLED display.
 
