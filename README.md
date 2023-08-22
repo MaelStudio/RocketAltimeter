@@ -4,5 +4,5 @@ It detects launches and apogee fully automatically using only the BMP280 baromet
 
 Learn more about this project in my YouTube video by clicking [here](https://youtu.be/KEmxApv8yUg).
 
-## Images
-![]()
+![Demo](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/demo.gif)
+![Demo](https://github.com/MaelStudio/RocketAltimeter/blob/main/img/rocket.png)
