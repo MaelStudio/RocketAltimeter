@@ -107,7 +107,7 @@ void setup() {
   float duration = float((apogeeTime - launchTime)) / 1000; // get duration
 
   char durationStr[6];
-  dtostrf(duration, 6, 2, durationStr); // convert height to text // convert duration to text
+  dtostrf(duration, 6, 2, durationStr); // convert duration to text
   char durationDisplay[20];
   strcpy(durationDisplay, "Duration:\n\n");
   strcat(durationDisplay, durationStr);
